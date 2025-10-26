@@ -18,8 +18,8 @@ echo "<br><br>";
 // Variabel
 $kata = "Ini Tes";
 $angka = 88;
-echo "Isi variabel \$kata: " . $kata . "<br>";
-echo "Isi variabel \$angka: " . $angka . "<br>";
+echo "Variabel \$kata: " . $kata . "<br>";
+echo "Variabel \$angka: " . $angka . "<br>";
 echo "<br><br>";
 
 // String

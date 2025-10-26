@@ -12,7 +12,7 @@ echo "<br><br>";
 Dan ini adalah
 satu blok komentar
 */
-echo "Komentar tidak akan ditampilkan.";
+echo "Komentar tidak ditampilkan.";
 echo "<br><br>";
 
 // Variabel

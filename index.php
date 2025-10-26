@@ -108,7 +108,7 @@ echo "<br><br>";
 // Menggunakan elseif
 $d = date("D");
 if ($d == "Fri") {
-    echo "Selamat berakhri pekan!";
+    echo "Selamat berakhir pekan!";
 } elseif ($d == "Sun") {
     echo "Semoga hari Minggu anda menyenangkan!";
 } else {
